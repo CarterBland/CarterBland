@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carter
+![CoderRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=carterbland)
 
 <!--
 **CarterBland/CarterBland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
