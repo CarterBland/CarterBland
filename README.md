@@ -1,6 +1,10 @@
-### Hi there 👋
-
 ![CoderRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=carterbland)
+
+### Hey, I'm Carter
+
+I'm currently a Software Engineer Team Lead at Midwestern Interactive. As a team lead I manage a team of software engineers on various projects, as-well as their technical growth. This is a new aspect of my career, and I strive to become better everyday.
+
+As an engineer, I am experienced in multiple frameworks and languages including: laravel, nest, next, react, react native, and many more. I have written various packages as-well, some widely used by the community. I also enjoy being able to lead the engineering vision of a project, and have the ability and confidence in solving technical problems with the most efficient solution.
 
 <!--
 **CarterBland/CarterBland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
