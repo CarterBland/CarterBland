@@ -1,5 +1,3 @@
-![CoderRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=carterbland)
-
 ### Hey, I'm Carter
 
 I'm currently a Software Engineer Team Lead at Midwestern Interactive. As a team lead I manage a team of software engineers on various projects, as-well as their technical growth. This is a new aspect of my career, and I strive to become better everyday.
