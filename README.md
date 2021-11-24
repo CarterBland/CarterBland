@@ -1,8 +1,11 @@
-### Hey, I'm Carter
+# About Me
 
-I'm currently a Software Engineer Team Lead at Midwestern Interactive. As a team lead I manage a team of software engineers on various projects, as-well as their technical growth. This is a new aspect of my career, and I strive to become better everyday.
+[![GitHub](https://img.shields.io/badge/GitHub-%40carterbland-239a3b.svg)](https://github.com/CarterBland)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](www.linkedin.com/in/carterbland)
 
-As an engineer, I am experienced in multiple frameworks and languages including: laravel, nest, next, react, react native, and many more. I have written various packages as-well, some widely used by the community. I also enjoy being able to lead the engineering vision of a project, and have the ability and confidence in solving technical problems with the most efficient solution.
+I'm currently a Software Engineer Team Lead at Midwestern Interactive where I manage a team of engineers on various projects, as-well as their technical growth. I enjoy leading software projects from start to finish and being able to architect long-lasting and maintainable software.
+
+As an engineer I’m experienced in multiple frameworks and languages including: laravel, nest, next, react, react native, and many more. I have written various packages as-well, and have a passion for creating tools that make development more streamlined.
 
 <!--
 **CarterBland/CarterBland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
