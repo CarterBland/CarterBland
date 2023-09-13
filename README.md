@@ -3,9 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40carterbland-239a3b.svg)](https://github.com/CarterBland)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](www.linkedin.com/in/carterbland)
 
-I'm currently a Software Engineer Team Lead at Midwestern Interactive where I manage a team of engineers on various projects, as-well as their technical growth. I enjoy leading software projects from start to finish and being able to architect long-lasting and maintainable software.
-
-As an engineer I’m experienced in multiple frameworks and languages including: laravel, nest, next, react, react native, and many more. I have written various packages as-well, and have a passion for creating tools that make development more streamlined.
+Hello, I’m a Senior Software Engineer with nearly seven years of hands-on programming experience. Specializing in contracting and consulting, I've had the privilege of working across a spectrum of industries, varying levels of start-ups, and a variety of languages and frameworks.
 
 <!--
 **CarterBland/CarterBland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
