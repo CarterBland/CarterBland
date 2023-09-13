@@ -1,7 +1,7 @@
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40carterbland-239a3b.svg)](https://github.com/CarterBland)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](www.linkedin.com/in/carterbland)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/carterbland)
 
 Hello, I’m a Senior Software Engineer with nearly seven years of hands-on programming experience. Specializing in contracting and consulting, I've had the privilege of working across a spectrum of industries, varying levels of start-ups, and a variety of languages and frameworks.
 
